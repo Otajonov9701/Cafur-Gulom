@@ -1,2 +1,2 @@
-# Cafur-Gulom
+# Gafur-Gulom
 Gafur Gulom
